@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**AdelKert/AdelKert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Автор: Камила Ордокова
+Ссылка: https://github.com/MLera67/Currency-Converter
+# Currency-Converter
+Пошаговая инструкция:
+1. Создайте интерфейс:
+Выбор валют (из и в)
+Поле ввода суммы
+Кнопка конвертации
+Таблица истории
+2. Используйте внешний API (например, exchangerate-api.com) для получения актуальных курсов.
+3. Добавьте сохранение истории в JSON и возможность её загрузки.
+4. Проверяйте корректность ввода:
+ Сумма должна быть положительным числом.
+Создание README.md
